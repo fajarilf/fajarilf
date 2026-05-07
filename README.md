@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Fajar 👋</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Database+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
