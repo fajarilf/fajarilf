@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently working as a **Software Developer**
+- 🔭 I'm currently working as a **Software Engineer**
 - 🌱 Focused on **backend development** and **database design**
 - ⚡ I love building reliable systems and clean, efficient APIs
 - 📫 Reach me at **fjr.ilf.firmansyah@gmail.com**
